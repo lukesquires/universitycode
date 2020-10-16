@@ -1,0 +1,5 @@
+This program was written in windows 10 aswell as tested in windows 10
+
+It uses python version 3.7
+
+Please make sure datafile.txt is saved in the same directory as the code
